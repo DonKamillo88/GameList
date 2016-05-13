@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- primary colors-->
+    <color name="colorPrimary">@color/green</color>
+    <color name="colorPrimaryDark">@color/dark_green</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackground">#D3D3D3</color>
+
+    <color name="dark_gray">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#32CD32</color>
+    <color name="dark_green">#009300</color>
+</resources>
